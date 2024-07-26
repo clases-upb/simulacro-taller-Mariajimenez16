@@ -82,5 +82,3 @@ public static float Calcular_potencia (short voltaje, byte corriente){
 
     
 
-
-}
